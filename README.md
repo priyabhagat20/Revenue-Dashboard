@@ -34,22 +34,27 @@ The Revenue Dashboard is designed to:
 # Screenshots
 Revenue Dashboard - Data Visualization for Sales and Profit Analysis
 An interactive dashboard showcasing key metrics such as revenue, profit, sales quantity, and category-wise distribution with state-wise and monthly insights.
+
 ![image](https://github.com/user-attachments/assets/e201dc34-0dba-43aa-93e6-293f6e7bf1aa)
 
 1. Quarter 1 Revenue Dashboard Overview
 Provides an overview of revenue, profit, and sales metrics for the first quarter. Includes visualizations by category, payment mode, and state performance.
+
 ![image](https://github.com/user-attachments/assets/ba9b05bb-8bf1-4d4c-8481-e52c3ecf627e)
 
-2. Quarter 2 Revenue Dashboard Overview
+3. Quarter 2 Revenue Dashboard Overview
 Displays quarterly performance metrics, highlighting sales trends, profits, and losses by category, state, and payment methods for the second quarter.
+
 ![image](https://github.com/user-attachments/assets/10c19b63-715c-43af-a3b7-7fefa32f37d5)
 
-3. Quarter 3 Revenue Dashboard Overview
+5. Quarter 3 Revenue Dashboard Overview
  Demonstrates revenue insights for the third quarter, focusing on profit distribution, sales quantities, and performance by sub-category.
+
 ![image](https://github.com/user-attachments/assets/286b89e2-abfe-42d3-a035-fd5ac454ab29)
 
-4. Quarter 4 Revenue Dashboard Overview
+7. Quarter 4 Revenue Dashboard Overview
 Summarizes key revenue and sales performance metrics for the fourth quarter, emphasizing monthly profit variations and category-wise sales.
+
 ![image](https://github.com/user-attachments/assets/b7a04a55-279e-4b4e-94ab-dc8882b795fe)
 
 
